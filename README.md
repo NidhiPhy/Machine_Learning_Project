@@ -3,9 +3,7 @@ This repository showcases a collection of diverse projects that demonstrate my s
 
 ---
 
-## 1. Age and Gender Detection
-
-**Objective:** Classify a person’s age group and gender from facial images using deep learning.
+1. Age and Gender Detection - Classify a person’s age group and gender from facial images using deep learning.
 ---
 
 ## 2. Image Classification using CNN
